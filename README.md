@@ -1,6 +1,16 @@
 # Docker-compose to run Character Builder Microservices
 
 ## Create file ".env" and set the environment variables
+
+## Project setup
+
+#### Create file .env
+```
+touch .env
+```
+
+#### Set the environment variables in .env file
+
 ```
 MYSQLDB_USER=example
 MYSQLDB_ROOT_PASSWORD=example
@@ -11,7 +21,8 @@ NODE_LOCAL_PORT=6868
 NODE_DOCKER_PORT=8080
 ```
 
-## Project setup
+#### Build Docker
+
 ```
 docker-compose up --build
 ```
