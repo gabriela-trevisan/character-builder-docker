@@ -4,6 +4,8 @@
 ```
 docker-compose up --build
 ```
+touch .env
+```
 
 ## GitHub
 ```
