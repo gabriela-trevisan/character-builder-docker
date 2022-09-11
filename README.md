@@ -26,6 +26,13 @@ docker-compose up --build
 ```
 
 ## GitHub
+
+#### Docker
 ```
 https://github.com/gabriela-trevisan/character-builder-docker.git
+```
+
+#### Character Builder
+```
+https://github.com/gabriela-trevisan/character-builder.git
 ```
