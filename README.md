@@ -1,7 +1,5 @@
 # Docker-compose to run Character Builder Microservices
 
-## Create file ".env" and set the environment variables
-
 ## Project setup
 
 #### Create file .env
