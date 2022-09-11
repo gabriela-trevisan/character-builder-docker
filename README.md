@@ -4,6 +4,9 @@
 ```
 docker-compose up --build
 ```
+
+## Run
+```
 touch .env
 ```
 
